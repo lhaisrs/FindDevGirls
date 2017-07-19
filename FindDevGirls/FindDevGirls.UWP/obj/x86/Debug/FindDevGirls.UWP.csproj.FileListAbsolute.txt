@@ -1,0 +1,11 @@
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\FindDevGirls.UWP.csprojResolveAssemblyReference.cache
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\App.g.cs
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\App.xaml
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\App.xbf
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.UWP\obj\x86\Debug\XamlSaveStateFile.xml

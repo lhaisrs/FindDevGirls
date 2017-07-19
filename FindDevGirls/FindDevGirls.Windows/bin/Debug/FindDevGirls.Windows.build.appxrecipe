@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LHAISRODRI-PC</Machine>
+    <WindowsUser>lhaisrodrigues</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>33ca9947-2d85-47e7-a457-03b2817c3789</PackageIdentityName>
+    <PackageIdentityPublisher>CN=lhaisrodrigues</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\bin\Debug\FindDevGirls.Windows.exe">
+      <PackagePath>FindDevGirls.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls\bin\Debug\FindDevGirls.dll">
+      <PackagePath>FindDevGirls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Microsoft.Azure.Mobile.Client.3.1.0\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Microsoft.Azure.Mobile.Client.3.1.0\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Microsoft.Net.Http.2.2.29\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Core.dll">
+      <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Platform.dll">
+      <PackagePath>Xamarin.Forms.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Platform.WinRT.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet.dll">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Xaml.dll">
+      <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls\Images\facebook.png">
+      <PackagePath>FindDevGirls\Images\facebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls\Images\github.png">
+      <PackagePath>FindDevGirls\Images\github.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls\Images\google.png">
+      <PackagePath>FindDevGirls\Images\google.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls\Images\twitter.png">
+      <PackagePath>FindDevGirls\Images\twitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\bin\Debug\FindDevGirls.Windows.xr.xml">
+      <PackagePath>FindDevGirls.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Platform.WinRT\PageControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\PageControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Platform.WinRT\StepperControl.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\StepperControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT\Xamarin.Forms.Platform.WinRT.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\FormsTextBoxStyle.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Resources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\TabletResources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\packages\Xamarin.Forms.2.3.3.193\lib\win81\Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml">
+      <PackagePath>Xamarin.Forms.Platform.WinRT.Tablet\Xamarin.Forms.Platform.WinRT.Tablet.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

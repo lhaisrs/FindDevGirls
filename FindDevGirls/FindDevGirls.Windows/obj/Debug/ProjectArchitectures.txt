@@ -1,0 +1,2 @@
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls.Windows\FindDevGirls.Windows.csproj;neutral
+C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls\FindDevGirls.csproj;neutral

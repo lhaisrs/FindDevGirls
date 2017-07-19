@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FindDevGirls.Views.DetailsPage"
+             xmlns:local="clr-namespace:FindDevGirls;assembly=FindDevGirls">
+  <ScrollView Padding="10">
+    <StackLayout Spacing="10">
+      <Label Text="{Binding Nome}" FontSize="24"/>
+      <Label Text="{Binding Cidade}" FontSize="18"/>
+      <Label Text="{Binding Estado}" FontSize="18"/>
+      <Label Text="{Binding Email}" FontSize="18"/>
+      <Label Text="{Binding Telefone}" FontSize="18"/>
+      <Label Text="{Binding Especialidades}" />
+      <Button x:Name="ButtonFacebook" Image="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls\Images\facebook.png"></Button>
+      <Button x:Name="ButtonGithub" Image="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls\Images\github.png"></Button>
+      <Button x:Name="ButtonGoogle" Image="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls\Images\google.png"></Button>
+      <Button x:Name="ButtonTwitter" Image="C:\Users\lhais\Desktop\Maratona de Xamarin\Projects\FindDevGirls\FindDevGirls\FindDevGirls\Images\twitter.png"></Button>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

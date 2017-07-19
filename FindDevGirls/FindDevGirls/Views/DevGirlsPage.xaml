@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FindDevGirls.Views.DevGirlsPage"
+             xmlns:VM="clr-namespace:FindDevGirls.ViewModels"
+             xmlns:local="clr-namespace:FindDevGirls;assembly=FindDevGirls"
+             Title="Find Dev Girls">
+  <ContentPage.BindingContext>
+    <VM:DevGirlsViewModel/>
+  </ContentPage.BindingContext>
+  <StackLayout Spacing="0">
+    <Button Text="Sincronizar" Command="{Binding GetsDevGirlsCommand}"/>
+    <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}"/>
+    <ListView x:Name="ListViewDevGirls" ItemsSource="{Binding DevGirls}">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ImageCell Text="{Binding Nome}"
+                     Detail="{Binding Especialidades}"/>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+    </StackLayout>
+</ContentPage>
